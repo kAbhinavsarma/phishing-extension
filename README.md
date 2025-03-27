@@ -1,1 +1,1 @@
-# phishing-extension
+# Phishing-extension
